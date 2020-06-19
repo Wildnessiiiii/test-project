@@ -1,4 +1,4 @@
-# A*Algorithm
+# pathfinding
 
  DONE:二叉堆优化
 
